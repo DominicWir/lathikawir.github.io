@@ -697,8 +697,8 @@ footer span a:hover{
         margin-bottom: 25px;
     }
     .blog .carousel2 .card .row img{
-        height: 100px;
-        width: 100px;
+        height: 80px;
+        width: 80px;
         margin-left: 5px;
         object-fit: cover;
         border-radius: 50%;
@@ -739,8 +739,8 @@ footer span a:hover{
         font-size: 27px;
     }
     .blog .carousel2 .card .row img{
-        height: 100px;
-        width: 100px;
+        height: 80px;
+        width: 80px;
         margin-left: 5px;
         object-fit: cover;
         border-radius: 50%;
