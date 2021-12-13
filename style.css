@@ -552,8 +552,6 @@ content: "who I am";
 .blog .carousel2 .card .row2 img{
     height: 150px;
     width: 500px;
-    margin-left: 10px;
-    margin-right: 10px;
     object-fit: cover;
     border: 3px solid rgb(146, 31, 146); 
     transition: all 0.3s ease;
