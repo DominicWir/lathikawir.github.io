@@ -601,6 +601,14 @@ footer span a:hover{
 @media(max-width: 1300px){
     .home .max-width{
         margin-left: 0px;
+    }.blog .carousel2 .card .row img{
+        height: 140px;
+        width: 140px;
+        margin-left: 5px;
+        object-fit: cover;
+        border-radius: 50%;
+        border: 5px solid rgb(146, 31, 146); 
+        transition: all 0.3s ease;
     }
 }
 @media(max-width: 1104px){
