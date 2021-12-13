@@ -609,8 +609,8 @@ footer span a:hover{
         width: 350px;
     }
     .blog .carousel2 .card .row img{
-        height: 80px;
-        width: 80px;
+        height: 100px;
+        width: 100px;
         margin-left: 20px;
         object-fit: cover;
         border-radius: 50%;
@@ -621,6 +621,15 @@ footer span a:hover{
 @media(max-width: 991px){
     .max-width{
         padding: 0 50px;
+    }
+    .blog .carousel2 .card .row img{
+        height: 100px;
+        width: 100px;
+        margin-left: 5px;
+        object-fit: cover;
+        border-radius: 50%;
+        border: 5px solid rgb(146, 31, 146); 
+        transition: all 0.3s ease;
     }
 }
 @media(max-width: 947px){
