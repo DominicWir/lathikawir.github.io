@@ -787,9 +787,7 @@ footer span a:hover{
         border-radius: 50%;
         border: 5px solid rgb(146, 31, 146); 
         transition: all 0.3s ease;
-    }
-    .blog .carousel2 .card .row2{
-      
+    }      
      .blog .carousel2 .card .row2 img{
         height: 50px;
         width: 150px;
