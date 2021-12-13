@@ -745,6 +745,25 @@ footer span a:hover{
         font-size: 27px;
     }
     .blog .carousel2 .card .row img{
+        height: 200px;
+        width: 200px;
+        margin-left: 5px;
+        object-fit: cover;
+        border-radius: 50%;
+        border: 5px solid rgb(146, 31, 146); 
+        transition: all 0.3s ease;
+    }
+    .blog .carousel2 .card .row2 img{
+        height: 100px;
+        width: 300px;
+        margin-left: 20px;
+        object-fit: cover;
+        border: 3px solid rgb(146, 31, 146); 
+        transition: all 0.3s ease;
+    }
+}
+@media(max-width: 480px){ 
+    .blog .carousel2 .card .row img{
         height: 100px;
         width: 100px;
         margin-left: 5px;
@@ -761,4 +780,4 @@ footer span a:hover{
         border: 3px solid rgb(146, 31, 146); 
         transition: all 0.3s ease;
     }
-}
+}    
