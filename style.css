@@ -687,6 +687,15 @@ footer span a:hover{
         width: 100%;
         margin-bottom: 25px;
     }
+    .blog .carousel2 .card .row img{
+        height: 50px;
+        width: 50px;
+        margin-left: 20px;
+        object-fit: cover;
+        border-radius: 50%;
+        border: 5px solid rgb(146, 31, 146); 
+        transition: all 0.3s ease;
+    }
 }
 @media(max-width: 690px){ 
     .max-width{
