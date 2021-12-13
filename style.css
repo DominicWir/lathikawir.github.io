@@ -741,7 +741,7 @@ footer span a:hover{
     }
     .blog .carousel2 .card .row2 img{
         height: 100px;
-        width: 80%;
+        width: 150px;
         margin-left: 20px;
         object-fit: cover;
         border: 3px solid rgb(146, 31, 146); 
