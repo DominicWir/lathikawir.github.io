@@ -740,13 +740,13 @@ footer span a:hover{
         transition: all 0.3s ease;
     }
     .blog .carousel2 .card .row2 img{
-        height: 100px;
-        width: 150px;
-        margin-left: 20px;
-        object-fit: cover;
-        border: 3px solid rgb(146, 31, 146); 
-        transition: all 0.3s ease;
-    }
+    height: 150px;
+    width: 500px;
+    margin-left: 20px;
+    object-fit: cover;
+    border: 3px solid rgb(146, 31, 146); 
+    transition: all 0.3s ease;
+}
 }
 @media(max-width: 500px){ 
     .home .home-content .text-2{
@@ -766,7 +766,7 @@ footer span a:hover{
     }
     .blog .carousel2 .card .row2 img{
         height: 100px;
-        width: 150px;
+        width: 200px;
         margin-left: 20px;
         object-fit: cover;
         border: 3px solid rgb(146, 31, 146); 
